@@ -1,2 +1,4 @@
-print("hello world;")
+print("hello world;") 
 print("boom;")
+print("Всем привет;")
+print("добавили еще одну строку;")
