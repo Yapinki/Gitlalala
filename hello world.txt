@@ -1,4 +1,1 @@
 print("hello world"); 
-я тут что-то менял
-ну и еще чуток
-print("new message");
